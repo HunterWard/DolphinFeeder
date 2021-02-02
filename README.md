@@ -4,6 +4,7 @@ Gamecube and Wii game backup "compression" is frequently done with the .dec file
 ## Requirements
 - Dolphin Emulator
 - nNasos 1.8
+- Python 3 if you are running it through the script and not .exe
 
 ## Current Features
 - **Drag and Drop Functionality**
