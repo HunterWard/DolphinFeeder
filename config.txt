@@ -1,0 +1,2 @@
+nNasosPath="C:\PATH\TO\nNASOS.exe"
+dolphinPath="C:\PATH\TO\Dolphin.exe"
